@@ -34,7 +34,7 @@
     "generate-password": "^1.4.2",
     "minimist": "^1.2.0",
     "node-emoji": "^1.10.0",
-    "ora": "^3.4.0",
+    "ora": "^4.0.0",
     "promisify-child-process": "^3.1.0",
     "prompt-sync": "^4.1.7",
     "replace-in-file": "^4.1.1"
